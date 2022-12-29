@@ -18,7 +18,7 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Spice](https://github.com/KiarieLinus/Spice)  
+- 🔭 I’m currently working on [WordleClone](https://github.com/KiarieLinus/WordleClone)  
   
 
 - 🌱 I’m currently learning Flutter  
