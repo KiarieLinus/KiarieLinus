@@ -40,37 +40,22 @@
 
 
 ## Languages and Tools  
-<div align="center">  
+<div >  
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="75" /></a>  
 <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="75" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="75" /></a>  
 </div>  
 
-<br/>  
-
+<br/> 
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img width="400" height="250" src="https://github-readme-stats.vercel.app/api?username=KiarieLinus" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=KiarieLinus" align="left" style="width: 100%" />
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiarieLinus" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiarieLinus&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
 <br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
