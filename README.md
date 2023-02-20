@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on [WordleClone](https://github.com/KiarieLinus/WordleClone)  
   
 
-- 🌱 I’m currently learning Flutter  
+- 🌱 I’m currently learning React Native  
   
 
 - ⚡ Fun fact: Jetpack compose >>>>>  
