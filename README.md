@@ -39,18 +39,22 @@
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="75" /></a>  
 <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="75" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="75" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" /></a>
 </div>  
 
 <br/> 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KiarieLinus" align="left" style="width: 100%" />
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiarieLinus&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+<table>
+ <tr>
+  <td valign="top" width="50%">
+   <img src="https://github-readme-stats.vercel.app/api?username=KiarieLinus" align="left" style="width: 100%" />
+  </td>
+  
+  <td valign="top" width="50%">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiarieLinus&layout=compact" align="left" style="width: 100%" />
+  </td>
+ </tr>
+</table>  
 
 <br/>  
